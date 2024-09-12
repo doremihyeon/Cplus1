@@ -19,7 +19,6 @@ int main()
 		a = b;
 		b = next;
 		i++;
-		
 	}
 	return 0;
 }
